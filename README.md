@@ -13,7 +13,7 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'Đồ ngốc',
+    btnIntro: 'Đồ ngốc.',
     title: 'MUỘN RỒI MÀ SAO CÒN 😙',
     desc: 'Muộn rồi mà sao còn ',
     btnYes: 'Vẫn cứ là thích anh <33',
